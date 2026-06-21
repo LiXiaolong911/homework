@@ -4,5 +4,9 @@
 
 ex01：github的使用指南，打开时输出“hello world",之后你可以键盘输入，显示输出键盘输入内容
 
-ex02：Arduino IDE 安装与 ESP32 环境配置，点亮LED，等待1秒，熄灭LED，之后再次点亮LED如此循环
+lab0：Arduino IDE 安装与 ESP32 环境配置，点亮LED，等待1秒，熄灭LED，之后再次点亮LED如此循环
+
+ex02：基础IO实验 - LED闪烁控制，使用 ESP32 开发板自带的 LED 灯（通常连接在 GPIO2），实现最基本的 LED 点亮和熄灭控制。
+
+ex03:LED呼吸灯实验流程,使用 ESP32 开发板自带的 LED 灯（通常连接在 GPIO2），通过 PWM（脉冲宽度调制）技术实现呼吸灯效果。
 
